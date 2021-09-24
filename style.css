@@ -1,0 +1,11 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: chartreuse;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+}
